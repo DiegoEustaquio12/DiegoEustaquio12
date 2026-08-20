@@ -10,7 +10,7 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my software project
+🔭 I’m currently working on my software project about computer vision
   
 🌱 I’m currently learning : Node.js
 
